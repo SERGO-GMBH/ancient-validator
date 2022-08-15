@@ -1,0 +1,19 @@
+{
+	"LanguageCode": "de",
+	"LanguageName": "Deutsch",
+  "Translations": {
+    "NotNull": "Der Wert {0} darf nicht null sein",
+    "Equals": "Der Wert {0} soll dem Wert {1} entsprechen",
+    "Must": "Der Wert {0} entspricht nicht den richtigen Werten",
+    "LaterThan": "Die Zeit {0} muss später als {1} sein",
+    "EarlierThan": "Die Zeit {0} muss früher als {1} sein",
+    "EqualsTime": "Die Zeit {0} muss der Zeit {1} entsprechen",
+    "NotEmpty": "Der Wert {0} darf nicht leer sein",
+    "EqualsIgnoreCase": "Der Wert {0} muss dem Wert {1} entsprechen",
+    "LowerThan": "Der Wert {0} muss kleiner als {1} sein",
+    "HigherThan": "Der Wert {0} muss größer als {1} sein",
+    "Devisible": "Der Wert {0} muss durch {1} teilbar sein",
+    "Even": "Der Wert {0} muss gerade sein",
+    "Between": "Der Wert {0} muss zwischen {1} und {2} sein"
+  }
+}

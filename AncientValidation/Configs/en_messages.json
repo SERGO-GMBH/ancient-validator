@@ -1,0 +1,19 @@
+{
+	"LanguageCode": "en",
+	"LanguageName": "English",
+  "Translations": {
+    "NotNull": "The value {0} cannot be null",
+    "Equals": "The value {0} does not correspond to the expectation",
+    "Must": "The value {0} does not correspond to the expectation",
+    "LaterThan": "The value {0} must be later than {1}",
+    "EarlierThan": "The value {0} must be earlier than {1}",
+    "EqualsTime": "The value {0} must be equals than {1}",
+    "NotEmpty": "The value {0} should not be empty",
+    "EqualsIgnoreCase": "The value {0} should correspond to the value {1}",
+    "LowerThan": "The value {0} must be lower than {1}",
+    "HigherThan": "The value {0} must be higher than {1}",
+    "Devisible": "The value {0} must devisible by {1}",
+    "Even": "The value {0} is even",
+    "Between": "The value {0} must between {1} and {2}"
+  }
+}
